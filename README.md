@@ -1,2 +1,2 @@
 # hello-world
-INitial hellow world test
+Initial hello world test
